@@ -1,6 +1,6 @@
 # Pomar & Raiz — Hortifruti Boutique
 
-E-commerce de frutas frescas, orgânicas e exóticas com seleção por peso/unidade, filtros de categoria, carrinho lateral interativo e cadastro de novos produtos.
+Interface atualizada preservando o projeto atual.
 
 ## 🚀 Tecnologias
 - **React 19 + TypeScript**
